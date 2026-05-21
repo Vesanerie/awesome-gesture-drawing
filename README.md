@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".github/assets/banner.jpg" alt="Awesome Gesture Drawing" width="100%">
+</p>
+
 # Awesome Gesture Drawing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of tools, references and resources to practice gesture drawing, figure drawing and life model.
