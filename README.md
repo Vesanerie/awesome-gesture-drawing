@@ -43,6 +43,7 @@ Native, web and mobile apps to run timed gesture sessions with a curated photo c
 Photo libraries built specifically for artists.
 
 - [SenshiStock](https://www.deviantart.com/senshistock) : thousands of action and dynamic poses on DeviantArt. Free with attribution.
+- [AI Pose Gallery](https://aiposegallery.com) : 67 AI-generated pose studies across seven categories, each shown from three camera angles with weight-placement notes. Free to browse and download.
 - [PoseSpace](https://www.posespace.com) : photo packs by themes (figure, costumed, props). Paid.
 - [Adorkastock](https://www.deviantart.com/adorkastock) : large catalog of free reference poses on DeviantArt.
 - [Bodies in Motion](https://www.bodiesinmotion.photo) : high speed motion capture sequences for studying movement. Subscription.
